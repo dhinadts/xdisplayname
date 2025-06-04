@@ -89,7 +89,7 @@ const Displaynames = () => {
         </button>
       </form>
 
-      {fullname && <h2>Full name: {fullname}</h2>}
+      {fullname && <h2>Full Name: {fullname}</h2>}
     </div>
   );
 };
