@@ -56,7 +56,7 @@ const Displaynames = () => {
             gap: "10px",
           }}
         >
-          <label>First Name</label>{" "}
+          <label>First Name:</label>{" "}
           <input
             type="text"
             placeholder="First Name"
@@ -74,7 +74,7 @@ const Displaynames = () => {
             gap: "10px",
           }}
         >
-          <label>Last Name</label>
+          <label>Last Name:</label>
           <input
             type="text"
             placeholder="Last Name"
